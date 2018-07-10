@@ -1,4 +1,11 @@
-# Hello
+# Hello, World!
+
+This project is a toy example of a full stack web application which is all written with functional programming.
+
+* Cycle.js is a functional frontend framework which supports pure data-flows, and isolates side-effects to explicit drivers whose sole purpose is to create side-effects.
+* Elixir is a fast backend framework with Ruby-like syntax built on the Erlang VM, with the Phoenix framework assisting in bringing web functionality to the language.
+
+# Running the project or forks
 
 To start your Phoenix server:
 
