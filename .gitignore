@@ -26,5 +26,6 @@ npm-debug.log
 # variables.
 /config/*.secret.exs
 
-# ignore package-lock.json because that's install-specific
+# ignore package-lock.json and mix.lock because that's install-specific
 *package-lock.json
+/mix.lock
